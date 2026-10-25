@@ -1,0 +1,9 @@
+config.json
+*.zip
+blacklist.txt
+*.log
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
