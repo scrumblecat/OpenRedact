@@ -1,6 +1,6 @@
 # OpenRedact
 
-Discord message purging, made simple.
+A command-line tool to bulk-delete Discord messages using your data package and a keyword blacklist.
 
 ## What is this?
 
